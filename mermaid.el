@@ -1,3 +1,5 @@
+;;; mermaid.el --- Suport for mermaid mode
+
 ;; mermaid mode
 
 (defvar mermaid-mode-hook nil
